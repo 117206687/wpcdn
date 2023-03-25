@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.webwaimao.com/sitemap_index.xml
-https://www.webwaimao.com/page-sitemap.xml
